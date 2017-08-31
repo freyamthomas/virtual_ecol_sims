@@ -1,1 +1,3 @@
-# virtual_ecol_sims
+# Simulation project
+
+This is my simulation project
